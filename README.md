@@ -42,8 +42,12 @@ modular.flutterando.com.br
 
 These changes led to a cleaner, more testable, and more maintainable module structure.
 
-<img width="1674" height="958" alt="Screenshot 2025-10-16 at 20 09 01" src="https://github.com/user-attachments/assets/52ca9406-2b97-41bf-a17f-69bfd1efecac" />
 
+
+
+
+
+https://github.com/user-attachments/assets/a16f6a10-28b6-4815-9592-0cee278775da
 
 
 
